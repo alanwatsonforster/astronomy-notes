@@ -17,3 +17,7 @@ PowerSeeker
 arcsec
 helicoils
 arctan
+Praesepe
+Barlows
+GoSky
+Maksutov
