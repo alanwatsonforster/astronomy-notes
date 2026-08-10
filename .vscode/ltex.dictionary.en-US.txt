@@ -15,3 +15,5 @@ X-Cels
 Baader
 PowerSeeker
 arcsec
+helicoils
+arctan
