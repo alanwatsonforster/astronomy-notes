@@ -2,3 +2,8 @@ focuser
 SVBONY
 Celestron
 X-Cel
+Plössl
+TeleVue
+Plössls
+Astromania
+Gosky
