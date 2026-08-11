@@ -33,3 +33,4 @@ aberrated
 Schmidt-Cassegrain
 Maksutov-Cassegrain
 Vocho
+Kellner
