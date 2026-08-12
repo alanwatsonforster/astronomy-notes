@@ -19,9 +19,13 @@
 |||||||||||
 |Lunar Filter|Celestron|[#94119-A](https://www.celestron.com/products/moon-filter-125in)|2018-11-14|[Amazon MX](https://www.amazon.com.mx/gp/your-account/order-details/ref=ppx_yo_dt_b_order_details_o00?ie=UTF8&orderID=702-3074086-5945828)|$204.88|20|$10.24|No||
 |UHC/LPR Filter|Celestron|[#94123](https://www.celestron.com/products/uhclpr-filter-125in)|2022-02-05|[Amazon MX](https://www.amazon.com.mx/gp/your-account/order-history/ref=ppx_yo_dt_b_search_od?ie=UTF8&ij=&opt=ab&ref_=&search=701-3116587-6818649)|$2,086.73|22|$94.85|No||
+||
+|Laser Pointer|POGEPE||2026-08-07|[Amazon MX](https://www.amazon.com.mx/gp/your-account/order-details/ref=dp_iou_view_order_details?ie=UTF8&orderID=701-2022629-9862629)|$189.00|20|$9.45|||
+|Laser-Pointer Rings|Astromania||2026-08-07|[Amazon US](https://www.amazon.com/your-orders/order-details?orderID=112-1479685-1411448&ref=ppx_yo2ov_dt_b_fed_order_details)|$638.29||$25.96|||
+|Finder Dovetail Base|Astromania||2026-08-07|[Amazon MX](https://www.amazon.com.mx/gp/your-account/order-details/ref=dp_iou_view_order_details?ie=UTF8&orderID=701-4583026-7757043)|$372.11|20|18.60|||
 |||||||||||
 |Phone Adapter|Gosky||2018-11-14|[Amazon MX](https://www.amazon.com.mx/gp/your-account/order-details/ref=ppx_yo_dt_b_order_details_o00?ie=UTF8&orderID=702-3074086-5945828)|$430.33|20|$21.52|No||
-|T Adaptor for Sony E Mount|Fotasy||2018-11-25|[Amazon MX](https://www.amazon.com.mx/gp/your-account/order-details/ref=ppx_yo_dt_b_order_details_o01?ie=UTF8&orderID=702-7315879-8228267)|$237.87|20|$11.89|No||
+|T Adapter for Sony E Mount|Fotasy||2018-11-25|[Amazon MX](https://www.amazon.com.mx/gp/your-account/order-details/ref=ppx_yo_dt_b_order_details_o01?ie=UTF8&orderID=702-7315879-8228267)|$237.87|20|$11.89|No||
 |||||||||||
 |Collimation Eyepiece|Celestron||2020-12-29|[Amazon MX](https://www.amazon.com.mx/gp/your-account/order-history/ref=ppx_yo_dt_b_search_od?ie=UTF8&ij=&opt=ab&ref_=&search=701-5984059-0662644)|$882.36|20|$44.12|Yes||
 |||||||||||

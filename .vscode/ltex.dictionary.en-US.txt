@@ -34,3 +34,7 @@ Schmidt-Cassegrain
 Maksutov-Cassegrain
 Vocho
 Kellner
+Fotasy
+Neewer
+Sunwayfoto
+HomeDepot
