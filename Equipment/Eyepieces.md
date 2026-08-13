@@ -132,7 +132,7 @@ The 1.25-in models are shown below (as well as a notional 25 mm 50 deg eyepiece)
 |--|--|--|--|--|--|
 |40 mm|11x|3.4 deg|31 mm|6.7 mm||
 |32 mm|13x|3.4 deg|22 mm|5.3 mm|$1150|
-|(25 mm)|17x|3.0 deg|4.1 mm|||
+|(25 mm)|17x|3.0 deg||4.1 mm||
 |15 mm|28x|1.8 deg|13 mm|2.5 mm|$900|
 |12 mm|35x|1.4 deg|8 mm|2.0 mm|$600|
 |9 mm|||6 mm|||
