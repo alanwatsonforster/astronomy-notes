@@ -50,6 +50,7 @@
 |||||||||||
 |14-inch Tool Chest|Truper|CHA-N16|2018|[HomeDepot](https://www.homedepot.com.mx/herramientas/cajas-para-herramientas-y-organizadores/cajas-para-herramientas/caja-de-herramienta-amplia-de-14-388946)|$125.00|20|$6.25|No||
 |14-inch Tool Chest|Truper|CHA-N16|2020|[HomeDepot](https://www.homedepot.com.mx/herramientas/cajas-para-herramientas-y-organizadores/cajas-para-herramientas/caja-de-herramienta-amplia-de-14-388946)|$125.00|20|$6.25|Yes|For Sun Catcher 70 mm|
-|22-inch Tool Chest|Truper|CHA-225|2018|[HomeDepot](https://www.homedepot.com.mx/herramientas/cajas-para-herramientas-y-organizadores/cajas-para-herramientas/caja-de-herramienta-22-435511)|$435.00|20|$21.75|No|For Power Seeker 127EQ|
+|14-inch Tool Chest|Truper|CHA-N16|2026-07-31|Walmart||||Yes|For equatorial head, tools, and eyepieces|
 |16-inch Tool Chest|Truper|CHA-16NC|2023|HomeDepot|$250.00|20|$12.50|Yes|For common kit|
 |16-inch Tool Chest|Truper|CHA-16NC|2022-02-20|HomeDepot|$250.00|20|$12.50|Yes|For SVBONY 70 mm|
+|22-inch Tool Chest|Truper|CHA-225|2018|[HomeDepot](https://www.homedepot.com.mx/herramientas/cajas-para-herramientas-y-organizadores/cajas-para-herramientas/caja-de-herramienta-22-435511)|$435.00|20|$21.75|No|For Power Seeker 127EQ|
