@@ -8,12 +8,12 @@
 - Model: Celestron Star Diagonal 1.25-inch \#94115-A
 - Borrowed from UNAM
 
-### Celestron Omni 2x Barlow
+### Celestron Omni 2× Barlow
 
 - Weight: 59 g
 - Optics: 2-element Barlow
 - Coatings: fully multi-coated
-- Model: Celestron Omni 2x Barlow Lens (1.25") \#93326
+- Model: Celestron Omni 2× Barlow Lens (1.25") \#93326
 - Purchased: 2020-12-29
 
 ### Celestron Omni 32 mm
@@ -82,15 +82,15 @@ For a 70 mm f/6, eyepieces giving similar magnifications would be:
 
 ### Pensack
 
-Pensack [recommends](https://www.eyepiecesetc.com/1X_2X_3X_Magnification_Protocol_p/ep-selection-1x-2x-3x.htm) 25x, 50x, and 75x for a 70 mm, plus a 2x Barlow for those rare nights of good seeing. For a 70 mm f/6, these would be
+Pensack [recommends](https://www.eyepiecesetc.com/1×_2×_3×_Magnification_Protocol_p/ep-selection-1×-2×-3×.htm) 25×, 50×, and 75× for a 70 mm, plus a 2× Barlow for those rare nights of good seeing. For a 70 mm f/6, these would be
 
-- 25x: 17 mm
-- 50x: 8 mm
-- 75x: 5.6 mm
+- 25×: 17 mm
+- 50×: 8 mm
+- 75×: 5.6 mm
 
 ### Wedel
 
-Wedel [used](https://10minuteastronomy.wordpress.com/2013/10/15/revenge-of-the-celestron-travel-scope-70/) 25, 17, 12, and 6 mm eyepieces plus a 2x Barlow with a 70 mm f/7 non-ED achromat.
+Wedel [used](https://10minuteastronomy.wordpress.com/2013/10/15/revenge-of-the-celestron-travel-scope-70/) 25, 17, 12, and 6 mm eyepieces plus a 2× Barlow with a 70 mm f/7 non-ED achromat.
 
 Wedel also [recommends](https://10minuteastronomy.wordpress.com/category/eyepieces/) a 32 mm with the Celestron 8-24 mm zoom.
 
@@ -116,7 +116,7 @@ In April 2022, Dr. Naranjo measured the pupil diameter of my right eye to be 4 m
 
 ### Magnification
 
-On 2022-03-17, I found that the Eskimo nebula was more clearly resolved at 100x than at 50x. This was with my SV 70 mm f/6, Celestron Zoom at 8 mm, and Celestron Omni 2x Barlow.
+On 2022-03-17, I found that the Eskimo nebula was more clearly resolved at 100× than at 50×. This was with my SV 70 mm f/6, Celestron Zoom at 8 mm, and Celestron Omni 2× Barlow.
 
 ## Celestron Omni
 
@@ -130,11 +130,11 @@ The 1.25-in models are shown below (as well as a notional 25 mm 50 deg eyepiece)
 
 |F|mag|Total Field|ER|EP|Cost|
 |--|--|--|--|--|--|
-|40 mm|11x|3.4 deg|31 mm|6.7 mm||
-|32 mm|13x|3.4 deg|22 mm|5.3 mm|$1150|
-|(25 mm)|17x|3.0 deg||4.1 mm||
-|15 mm|28x|1.8 deg|13 mm|2.5 mm|$900|
-|12 mm|35x|1.4 deg|8 mm|2.0 mm|$600|
+|40 mm|11×|3.4 deg|31 mm|6.7 mm||
+|32 mm|13×|3.4 deg|22 mm|5.3 mm|$1150|
+|(25 mm)|17×|3.0 deg||4.1 mm||
+|15 mm|28×|1.8 deg|13 mm|2.5 mm|$900|
+|12 mm|35×|1.4 deg|8 mm|2.0 mm|$600|
 |9 mm|||6 mm|||
 |6 mm|||5 mm|||
 |4 mm|||6 mm|||
@@ -145,19 +145,19 @@ I’m not considering the 40 mm, since its field is not much larger than the 32 
 
 I’m not considering the 56 mm as it is a 2-in model.
 
-I already have the 2x Barlow.
+I already have the 2× Barlow.
 
-The 32 mm with a 70 mm f/6 gives a magnification of 13x and a field of 3.4 degrees. The exit pupil would be 5.3 mm, which likely overfills my entrance pupils. Assuming my entrance pupils are more like 4 mm, the effective aperture would be about 50 mm. Thus, the 70 mm f/6 with the 32 mm would be effectively a 50x13 finder with a field of 3.4 degrees.
+The 32 mm with a 70 mm f/6 gives a magnification of 13× and a field of 3.4 degrees. The exit pupil would be 5.3 mm, which likely overfills my entrance pupils. Assuming my entrance pupils are more like 4 mm, the effective aperture would be about 50 mm. Thus, the 70 mm f/6 with the 32 mm would be effectively a 50×13 finder with a field of 3.4 degrees.
 
-Using the 32 mm with the 2x Barlow would give 26x with a field of 2.3 deg and an exit pupil of 2.7 mm. This is well-matched to my eye and would give a brighter image.
+Using the 32 mm with the 2× Barlow would give 26× with a field of 2.3 deg and an exit pupil of 2.7 mm. This is well-matched to my eye and would give a brighter image.
 
 It’s not clear that the 12 mm or 15 mm would be significantly better than my 8-24 mm zoom. On the other hand, they are inexpensive.
 
-My preferred option in this range is the 32 mm, my 8-24 mm zoom, and a 2x Barlow.
+My preferred option in this range is the 32 mm, my 8-24 mm zoom, and a 2× Barlow.
 
-- The 32 mm would give 13x as a finder
-- The zoom without the Barlow would give 18x to 53x.
-- The zoom with the Barlow would give magnifications from 35x to 105x.
+- The 32 mm would give 13× as a finder
+- The zoom without the Barlow would give 18× to 53×.
+- The zoom with the Barlow would give magnifications from 35× to 105×.
 
 ## Celestron X-Cel LX
 
@@ -177,15 +177,15 @@ Together, these argue that X-Cels are superior to Omnis at all focal lengths.
 
 With a 70 mm f/6, these eyepieces give magnifications, fields, and exit pupils of:
 
-|F|mag|Total Field|EP|Weight|
-|--|--|--|--|--|
-|25 mm|17x|3.6 deg|4.2 mm|176 g|
-|18 mm|23x|2.6 deg|3.0 mm||
-|12 mm|35x|1.7 deg|2.0 mm|192 g|
-|9 mm|47x|1.3 deg|1.5 mm|182 g|
-|7 mm|60×|1.0 deg|1.2 mm|194 g|
-|5 mm|84x|0.7 deg|0.8 mm|200 g|
-|2.3 mm|183x|0.3 deg|0.4 mm||
+|F|mag|Total Field|ER|EP|Weight|Size|
+|--|--|--|--|--|--|--|
+|[25 mm](https://www.celestron.com/products/x-cel-lx-25mm-eyepiece-125in?_pos=2&_fid=dcd800b97&_ss=c)|17×|3.6 deg|16 mm|4.2 mm|184 g|85 × 48 mm|
+|[18 mm](https://www.celestron.com/products/x-cel-lx-18mm-eyepiece-125in)|23×|2.6 deg|16 mm|3.0 mm|184 g|85 × 48 mm|
+|[12 mm](https://www.celestron.com/products/x-cel-lx-12mm-eyepiece-125in)|35×|1.7 deg|16 mm|2.0 mm|178 g|82 × 48 mm|
+|[9 mm](https://www.celestron.com/products/x-cel-lx-9mm-eyepiece-125in)|47×|1.3 deg|16 mm|1.5 mm|170 g|83 × 48 mm|
+|[7 mm](https://www.celestron.com/products/x-cel-lx-7mm-eyepiece-125in)|60×|1.0 deg|36 mm|1.2 mm|184 g|93 × 48 mm|
+|[5 mm](https://www.celestron.com/products/x-cel-lx-5mm-eyepiece-125in)|84×|0.7 deg|28 mm|0.8 mm|184 g|95 × 48 mm|
+|[2.3 mm](https://www.celestron.com/products/x-cel-lx-2-3mm-eyepiece-125in)|183×|0.3 deg|24 mm|0.4 mm|198 g|120 × 48 mm|
 
 I’ve [read that the 5 mm is actually a 4.5 and the 7 mm is actually a 6.5](https://www.cloudynights.com/topic/732032-celestron-x-cel-eyepieces/?p=11431606) and that optically [they are the same as the Meade HD-60 and DS Plano](https://astro--talks-ru.translate.goog/forum/viewtopic.php?f=32&t=993&_x_tr_sch=http&_x_tr_sl=ru&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=nui#p10283).
 
@@ -194,23 +194,30 @@ Some notes:
 - I’m not planning to use a finder, so I need a 25 mm.
 - I can match Hawks’ recommendations with:
   - 25, 12, 9/7, and 5 mm
-  - 25 and 9 mm with a 2x Barlow.
+  - 25 and 9 mm with a 2× Barlow.
 - I can match Pensack’s recommendations with:
-  - 18 mm, 9 mm, and 7/5 mm with a 2x Barlow.
-- The only way to get to the maximum useful magnification of 140x is with a 7 mm with a 2x Barlow. This ignores Hawks, who recommends only about 84x for a 70 mm telescope.
-- I already have an Omni 2x Barlow that I could use initially. Perhaps the best thing initially is to get the 25 mm (which will be useful anyway) and see what magnifications work best using my 8-24 zoom and 2x Barlow.
+  - 18 mm, 9 mm, and 7/5 mm with a 2× Barlow.
+- The only way to get to the maximum useful magnification of 140× is with a 7 mm with a 2× Barlow. This ignores Hawks, who recommends only about 84× for a 70 mm telescope.
+- I already have an Omni 2× Barlow that I could use initially. Perhaps the best thing initially is to get the 25 mm (which will be useful anyway) and see what magnifications work best using my 8-24 zoom and 2× Barlow.
 
 Possible sets:
 
 - Based on 25 and 7 mm:
-  - 25 and 7 mm with 2x Barlow: 25, 12\*, 7, and 3.5\*
-  - 25, 18, and 7 mm with 2x Barlow: 25, 18, 12\*, 9\*, 7, and 3.5\*
-  - 25, 18, 12, and 7 mm with 2x Barlow: 25, 18, 12, 9\*, 7, 6\*, 3.5\*
-  - 25, 18, 7, and 5 mm with 2x Barlow: 25, 18, 12\*, 9\*, 7, 5, 3.5\*, and 2.5\*
+  - 25 and 7 mm with 2× Barlow: 25, 12\*, 7, and 3.5\*
+  - 25, 18, and 7 mm with 2× Barlow: 25, 18, 12\*, 9\*, 7, and 3.5\*
+  - 25, 18, 12, and 7 mm with 2× Barlow: 25, 18, 12, 9\*, 7, 6\*, 3.5\*
+  - 25, 18, 7, and 5 mm with 2× Barlow: 25, 18, 12\*, 9\*, 7, 5, 3.5\*, and 2.5\*
 - Based on 25 and 9 mm:
-  - 25 and 9 mm with 2x Barlow: 25, 12\*, 9, and 4.5\*.
-  - 25, 9, and 7 mm with 2x Barlow: 25, 12\*, 9, 7, 4.5\*, 3.5\*
+  - 25 and 9 mm with 2× Barlow: 25, 12\*, 9, and 4.5\*.
+  - 25, 9, and 7 mm with 2× Barlow: 25, 12\*, 9, 7, 4.5\*, 3.5\*
   - 25, 9, and 5 mm: 25, 9, and 5
+
+In August 2026 I bought:
+
+- 25 mm eyepiece
+- 12 mm eyepiece
+- 9 mm eyepiece
+- 2x Barlow lens
 
 ## Baader Hyperion 8-24 mm Zoom
 
