@@ -1,4 +1,4 @@
-# Thinking Leading to Purchase of SV70
+# SV70 Telescope — Thinking Leading to Purchase
 
 Written 2022-01 and 2022-02
 
