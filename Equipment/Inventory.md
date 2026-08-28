@@ -7,6 +7,11 @@
 |Sun Catcher 70 mm|Explore Scientific||2020-08-14|[Amazon MX](https://www.amazon.com.mx/gp/your-account/order-history/ref=ppx_yo_dt_b_search_od?ie=UTF8&ij=&opt=ab&ref_=&search=702-7252834-1035407)|$1,554.72|20|$77.74|Yes||
 |SV503 70ED f/6|SVBONY|[F9359A](https://www.svbony.com/sv503-70f6-ed-astronomy-telescope/)|2022-02-12|[Amazon MX](https://www.amazon.com.mx/gp/your-account/order-details/ref=ppx_yo_dt_b_order_details_o00?ie=UTF8&orderID=701-6891505-5925003)|$10,115.00|20|$505.75|Yes||
 |*EYEPIECES*|
+|Star Diagonal|Celestron|||||||||
+|X-Cel LX 25 mm|Celestron|||||||||
+|X-Cel LX 12 mm|Celestron|||||||||
+|X-Cel LX 9 mm|Celestron|||||||||
+|X-Cel LX 2x Barlow|Celestron|||||||||
 |Star Diagonal|Celestron|[#94115-A](https://www.celestron.com/products/star-diagonal-125in?_pos=1&_sid=cd4d7dfed&_ss=r)||||||Yes||
 |Omni 2x Barlow|Celestron|[#93326](https://www.celestron.com/products/omni-2x-barlow-lens-125in?_pos=1&_sid=e75e03230&_ss=r)|2020-12-29|[Amazon MX](https://www.amazon.com.mx/gp/your-account/order-history/ref=ppx_yo_dt_b_search_od?ie=UTF8&ij=&opt=ab&ref_=&search=701-5699169-7660223)|$1,084.23|20|$54.21|Yes||
 |Omni 32 mm Eyepiece|Celestron|[#93323](https://www.celestron.com/products/omni-32-mm-eyepiece-125in#description)|2022-02-15|[Amazon MX](https://www.amazon.com.mx/gp/your-account/order-details/ref=ppx_yo_dt_b_order_details_o00?ie=UTF8&orderID=701-0516370-3188238)|$970.98|20|$48.55|Yes||

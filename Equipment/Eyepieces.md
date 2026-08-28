@@ -217,7 +217,7 @@ In August 2026 I bought:
 - 25 mm eyepiece
 - 12 mm eyepiece
 - 9 mm eyepiece
-- 2x Barlow lens
+- 2× Barlow lens
 
 ## Baader Hyperion 8-24 mm Zoom
 
