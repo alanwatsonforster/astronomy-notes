@@ -2,6 +2,38 @@
 
 ## Active Equipment
 
+### Celestron Dielectric Diagonal
+
+- Weight:
+- Model: Dielectric Star Diagonal, 1.25" with Twist-Lock \#93571
+- Purchased: 2026-08-12
+
+### Celestron X-Cel LX 2× Barlow
+
+- Weight:
+- Model: X-Cel LX 2x Barlow Lens - 1.25" \#93529
+- Purchased: 2026-08-12
+
+### Celestron X-Cel LX 25 mm
+
+- Weight:
+- Model: X-Cel LX 25mm Eyepiece - 1.25" \#93426
+- Purchased: 2026-08-19
+
+### Celestron X-Cel LX 18 mm
+
+- Weight:
+- Model: X-Cel LX 18mm Eyepiece - 1.25" \#93425
+- Purchased: 2026-08-12
+
+### Celestron X-Cel LX 12 mm
+
+- Weight:
+- Model: X-Cel LX 12mm Eyepiece - 1.25" \#93424
+- Purchased: 2026-08-12
+
+## Previous Equipment
+
 ### Celestron Diagonal
 
 - Weight: 143 g
@@ -72,7 +104,7 @@ As an alternative, he recommends a 32 mm Plössl with an 8–24 mm zoom.
 
 O’Meara used a 102 mm f/5 refractor for the observations reported in “The Messier Objects”. He used only a 22 mm (23× with a 4.5 mm exit pupil) and 7 mm (72×) eyepieces, although sometimes used the 7 mm with a 1.8× Barlow to give 130×.
 
-I think one of the reasons for this is that most of the Messier and Caldwell objects fit quite nicely in a 1 degree field, which is about what you get at 72× with a wide-angle eyepiece.
+I think one of the reasons for this is that most of the Messier and Caldwell objects fit quite nicely in a 1° field, which is about what you get at 72× with a wide-angle eyepiece.
 
 For a 70 mm f/6, eyepieces giving similar magnifications would be:
 
@@ -122,19 +154,19 @@ On 2022-03-17, I found that the Eskimo nebula was more clearly resolved at 100×
 
 These are fully multi-coated 4-element Plössls.
 
-They have a 50 degree field, except the 32 mm model which has a field of 44 degrees, the 40 mm model which has a field of 43 degrees, and the 56 mm model which has a field of 47 degrees.
+They have a 50° field, except the 32 mm model which has a field of 44°, the 40 mm model which has a field of 43°, and the 56 mm model which has a field of 47°.
 
 The 56 mm model is 2-inch, and the others are 1.25-inch.
 
-The 1.25-in models are shown below (as well as a notional 25 mm 50 deg eyepiece), along with their magnification, true field of view, and exit pupil with a 70 mm f/6.
+The 1.25-in models are shown below (as well as a notional 25 mm 50° eyepiece), along with their magnification, true field of view, and exit pupil with a 70 mm f/6.
 
 |F|mag|Total Field|ER|EP|Cost|
 |--|--|--|--|--|--|
-|40 mm|11×|3.4 deg|31 mm|6.7 mm||
-|32 mm|13×|3.4 deg|22 mm|5.3 mm|$1150|
-|(25 mm)|17×|3.0 deg||4.1 mm||
-|15 mm|28×|1.8 deg|13 mm|2.5 mm|$900|
-|12 mm|35×|1.4 deg|8 mm|2.0 mm|$600|
+|40 mm|11×|3.4°|31 mm|6.7 mm||
+|32 mm|13×|3.4°|22 mm|5.3 mm|$1150|
+|(25 mm)|17×|3.0°||4.1 mm||
+|15 mm|28×|1.8°|13 mm|2.5 mm|$900|
+|12 mm|35×|1.4°|8 mm|2.0 mm|$600|
 |9 mm|||6 mm|||
 |6 mm|||5 mm|||
 |4 mm|||6 mm|||
@@ -147,9 +179,9 @@ I’m not considering the 56 mm as it is a 2-in model.
 
 I already have the 2× Barlow.
 
-The 32 mm with a 70 mm f/6 gives a magnification of 13× and a field of 3.4 degrees. The exit pupil would be 5.3 mm, which likely overfills my entrance pupils. Assuming my entrance pupils are more like 4 mm, the effective aperture would be about 50 mm. Thus, the 70 mm f/6 with the 32 mm would be effectively a 50×13 finder with a field of 3.4 degrees.
+The 32 mm with a 70 mm f/6 gives a magnification of 13× and a field of 3.4°. The exit pupil would be 5.3 mm, which likely overfills my entrance pupils. Assuming my entrance pupils are more like 4 mm, the effective aperture would be about 50 mm. Thus, the 70 mm f/6 with the 32 mm would be effectively a 50×13 finder with a field of 3.4°.
 
-Using the 32 mm with the 2× Barlow would give 26× with a field of 2.3 deg and an exit pupil of 2.7 mm. This is well-matched to my eye and would give a brighter image.
+Using the 32 mm with the 2× Barlow would give 26× with a field of 2.3° and an exit pupil of 2.7 mm. This is well-matched to my eye and would give a brighter image.
 
 It’s not clear that the 12 mm or 15 mm would be significantly better than my 8-24 mm zoom. On the other hand, they are inexpensive.
 
@@ -159,33 +191,40 @@ My preferred option in this range is the 32 mm, my 8-24 mm zoom, and a 2× Barlo
 - The zoom without the Barlow would give 18× to 53×.
 - The zoom with the Barlow would give magnifications from 35× to 105×.
 
+I eventually bought 32 mm and 15 mm Omni eyepieces along with a 2× Omni Barlow, and used these with a borrowed 25 mm E-Lux. These replaced my 8-24 mm zoom. With a 70 mm f/6, these give magnifications of 13×, 17×, 28×, and 56× with a maximum field of 3.4°:
+
+|F|mag|Total Field|ER|EP|
+|--|--|--|--|--|
+|32 mm|13×|3.4°|22 mm|5.3 mm|
+|25 mm|17×|3.0°||4.1 mm|
+|15 mm|28×|1.8°|13 mm|2.5 mm|
+|7.5 mm = 15 mm with 2×|56×|0.9°|13 mm|1.3 mm|
+
+In 2026, I replaced these with a set of X-Cel LX eyepieces, described below.
+
 ## Celestron X-Cel LX
 
-The Celestron X-Cel LX 6-element eyepieces look like they might be worth the extra price compared to the Omni 4-element Plössls.
+The Celestron X-Cel LX 6-element eyepieces come in 25, 18, 12, 9, 7, 5, and 2.3 mm focal lengths, have 60° field, 16 mm eye-relief, and adjustable eyecups. They look like they might be worth the extra price compared to the Omni 4-element Plössls. Let’s compare them:
 
-They come in 25, 18, 12, 9, 7, 5, and 2.3 mm focal lengths, have 60 degree field, 16 mm eye-relief, and adjustable eyecups.
+- The 25 mm X-Cel LX has a 60° field, whereas the 32 mm Omni has a 44° field. Thus, the 25 mm X-Cel LX gives a field equivalent to a hypothetical 30 mm 50° eyepiece, which exceeds the 32 mm Omni, but with higher magnification. Furthermore, with a 70/420, the exit pupil sizes would be 5.3 mm with the 32 mm eyepiece and 4.2 mm with the 25 mm eyepiece; the 25 mm eyepiece is better matched to my eyes under light-polluted conditions.
 
-Let’s compare them to the Omni Plössls:
-
-- The 25 mm X-Cel has a 60 degree field, whereas the 32 mm Omni has a 44 degree field. Thus, the 25 mm X-Cel gives a field equivalent to a hypothetical 30 mm 50 deg eyepiece, which exceeds the 32 mm Omni, but with higher magnification. Furthermore, with a 70/420, the exit pupil sizes would be 5.3 mm with the 32 mm eyepiece and 4.2 mm with the 25 mm eyepiece; the 25 mm eyepiece is better matched to my eyes under light-polluted conditions.
-
-- Similarly, the 12 mm X-Cel has a similar field to the 15 mm Omni.
+- Similarly, the 12 mm X-Cel LX has a similar field to the 15 mm Omni.
 
 - At shorter focal lengths, the eye relief of the Omnis is insufficient.
 
-Together, these argue that X-Cels are superior to Omnis at all focal lengths.
+Together, these argue that X-Cel LX eyepieces are superior to Omnis at all focal lengths.
 
 With a 70 mm f/6, these eyepieces give magnifications, fields, and exit pupils of:
 
 |F|mag|Total Field|ER|EP|Weight|Size|
 |--|--|--|--|--|--|--|
-|[25 mm](https://www.celestron.com/products/x-cel-lx-25mm-eyepiece-125in?_pos=2&_fid=dcd800b97&_ss=c)|17×|3.6 deg|16 mm|4.2 mm|184 g|85 × 48 mm|
-|[18 mm](https://www.celestron.com/products/x-cel-lx-18mm-eyepiece-125in)|23×|2.6 deg|16 mm|3.0 mm|184 g|85 × 48 mm|
-|[12 mm](https://www.celestron.com/products/x-cel-lx-12mm-eyepiece-125in)|35×|1.7 deg|16 mm|2.0 mm|178 g|82 × 48 mm|
-|[9 mm](https://www.celestron.com/products/x-cel-lx-9mm-eyepiece-125in)|47×|1.3 deg|16 mm|1.5 mm|170 g|83 × 48 mm|
-|[7 mm](https://www.celestron.com/products/x-cel-lx-7mm-eyepiece-125in)|60×|1.0 deg|36 mm|1.2 mm|184 g|93 × 48 mm|
-|[5 mm](https://www.celestron.com/products/x-cel-lx-5mm-eyepiece-125in)|84×|0.7 deg|28 mm|0.8 mm|184 g|95 × 48 mm|
-|[2.3 mm](https://www.celestron.com/products/x-cel-lx-2-3mm-eyepiece-125in)|183×|0.3 deg|24 mm|0.4 mm|198 g|120 × 48 mm|
+|[25 mm](https://www.celestron.com/products/x-cel-lx-25mm-eyepiece-125in?_pos=2&_fid=dcd800b97&_ss=c)|17×|3.6°|16 mm|4.2 mm|184 g|85 × 48 mm|
+|[18 mm](https://www.celestron.com/products/x-cel-lx-18mm-eyepiece-125in)|23×|2.6°|16 mm|3.0 mm|184 g|85 × 48 mm|
+|[12 mm](https://www.celestron.com/products/x-cel-lx-12mm-eyepiece-125in)|35×|1.7°|16 mm|2.0 mm|178 g|82 × 48 mm|
+|[9 mm](https://www.celestron.com/products/x-cel-lx-9mm-eyepiece-125in)|47×|1.3°|16 mm|1.5 mm|170 g|83 × 48 mm|
+|[7 mm](https://www.celestron.com/products/x-cel-lx-7mm-eyepiece-125in)|60×|1.0°|36 mm|1.2 mm|184 g|93 × 48 mm|
+|[5 mm](https://www.celestron.com/products/x-cel-lx-5mm-eyepiece-125in)|84×|0.7°|28 mm|0.8 mm|184 g|95 × 48 mm|
+|[2.3 mm](https://www.celestron.com/products/x-cel-lx-2-3mm-eyepiece-125in)|183×|0.3°|24 mm|0.4 mm|198 g|120 × 48 mm|
 
 I’ve [read that the 5 mm is actually a 4.5 and the 7 mm is actually a 6.5](https://www.cloudynights.com/topic/732032-celestron-x-cel-eyepieces/?p=11431606) and that optically [they are the same as the Meade HD-60 and DS Plano](https://astro--talks-ru.translate.goog/forum/viewtopic.php?f=32&t=993&_x_tr_sch=http&_x_tr_sl=ru&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=nui#p10283).
 
@@ -198,30 +237,23 @@ Some notes:
 - I can match Pensack’s recommendations with:
   - 18 mm, 9 mm, and 7/5 mm with a 2× Barlow.
 - The only way to get to the maximum useful magnification of 140× is with a 7 mm with a 2× Barlow. This ignores Hawks, who recommends only about 84× for a 70 mm telescope.
-- I already have an Omni 2× Barlow that I could use initially. Perhaps the best thing initially is to get the 25 mm (which will be useful anyway) and see what magnifications work best using my 8-24 zoom and 2× Barlow.
 
-Possible sets:
+In August 2026 I bought 25 mm, 12 mm, and 9 mm eyepieces with a 2× Barlow lens.
+With a 70 mm f/60, these give me magnifications of 17×, 35×, 47×, 70×, and 94× and a maximum field of 3.6°:
 
-- Based on 25 and 7 mm:
-  - 25 and 7 mm with 2× Barlow: 25, 12\*, 7, and 3.5\*
-  - 25, 18, and 7 mm with 2× Barlow: 25, 18, 12\*, 9\*, 7, and 3.5\*
-  - 25, 18, 12, and 7 mm with 2× Barlow: 25, 18, 12, 9\*, 7, 6\*, 3.5\*
-  - 25, 18, 7, and 5 mm with 2× Barlow: 25, 18, 12\*, 9\*, 7, 5, 3.5\*, and 2.5\*
-- Based on 25 and 9 mm:
-  - 25 and 9 mm with 2× Barlow: 25, 12\*, 9, and 4.5\*.
-  - 25, 9, and 7 mm with 2× Barlow: 25, 12\*, 9, 7, 4.5\*, 3.5\*
-  - 25, 9, and 5 mm: 25, 9, and 5
+|F|mag|Total Field|ER|EP|
+|--|--|--|--|--|
+|25 mm|17×|3.6°|16 mm|4.2 mm|
+|12 mm|35×|1.7°|16 mm|2.0 mm|
+|9 mm|47×|1.3°|16 mm|1.5 mm|
+|6 mm = 12 mm with 2×|70×|0.9°|16 mm|1.0 mm|
+|4.5 mm = 9 mm with 2×|94×|0.6°|16 mm|0.8 mm|
 
-In August 2026 I bought:
-
-- 25 mm eyepiece
-- 12 mm eyepiece
-- 9 mm eyepiece
-- 2× Barlow lens
+The 25 mm is not useful with the 2× Barlow; the 12 mm is better. However, the 9 mm and 12 mm with and without the 2× Barlow give a nice range of magnifications from 35× to 94×. An alternative would have been the 7 and 5 mm eyepieces rather than the 2× Barlow, but this would have meant extra weight and cost.
 
 ## Baader Hyperion 8-24 mm Zoom
 
-## SVBONY 68 deg lenses
+## SVBONY 68° lenses
 
 - 20/15/9/6 mm
 - FMC
@@ -230,7 +262,7 @@ In August 2026 I bought:
 - [https://www.cloudynights.com/topic/687007-svbony-eyepieces-review/](https://www.cloudynights.com/topic/687007-svbony-eyepieces-review/)
   - 20 good
 
-## SVBONY 62 deg lenses
+## SVBONY 62° lenses
 
 - 23/15/9/6
 - MX$780 as a set
@@ -300,14 +332,14 @@ Transport
 
 - Focal length: 20 mm
 - Size: 1.25 inch
-- Apparent field of view: estimated to be 40 deg
+- Apparent field of view: estimated to be 40°
 - Model: Labeled “K20” and supplied with Sun Catcher 70
 
 ### Explore Scientific K9
 
 - Focal length: 9 mm
 - Size: 1.25 inch
-- Apparent field of view: estimated to be 40 deg
+- Apparent field of view: estimated to be 40°
 - Model: Labeled “K9” and supplied with Sun Catcher 70
 
 ## Seeing
